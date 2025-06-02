@@ -6,4 +6,7 @@ Red Wine Quality & Recommendation
 ![flowchart](https://github.com/patty111/ds/blob/main/HW01/HW1-flow.png)  
 
 ## LeetCode
-- [55 Jump Game](https://github.com/AndyChiangSH/LeetCode/tree/master/Problem/55.jump-game)
+[Solutions](https://github.com/patty111/ds/tree/main/leetcode-problem)
+- Hard: 11
+- Medium: 40
+- Easy: 76
